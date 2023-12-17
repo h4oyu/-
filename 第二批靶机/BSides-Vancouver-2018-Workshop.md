@@ -244,7 +244,7 @@ echo '</pre>';
 ?>
 ```
 
-> shell升级
+> 终端升级
 ```
 /usr/bin/script -qc /bin/bash /dev/null
 export TERM=xterm
