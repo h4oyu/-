@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "46e6b893e3969906",
+    "type": "split",
+    "children": [
+      {
+        "id": "707f5208da478143",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07fbd4d5987c5448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第二批靶机/BSides-Vancouver-2018-Workshop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49e2c3b30fe5f984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第二批靶机/tiki.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c59cb3abbb36a18",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dcb50c615e336d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98ef8f7ab261b0d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3caa5caac0b17710",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e2b148d60cc5285",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "03bef3ff75a69ae4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5841a9ec8cd3e790",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "730d736b49a7ff8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第二批靶机/tiki.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "15f91655c28334ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "第二批靶机/tiki.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6146d1bd370378c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7d94b2233df9b71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "第二批靶机/tiki.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "49e2c3b30fe5f984",
+  "lastOpenFiles": [
+    "第二批靶机/images/Pasted image 20231230165757.png",
+    "第二批靶机/images/Pasted image 20231230165328.png",
+    "第二批靶机/images/Pasted image 20231230165656.png",
+    "第二批靶机/tiki.md",
+    "第二批靶机/images/Pasted image 20231230165226.png",
+    "第二批靶机/images/Pasted image 20231230164712.png",
+    "第二批靶机/images/Pasted image 20231230163904.png",
+    "Pasted image 20231230163720.png",
+    "第二批靶机/images/Pasted image 20231230163628.png",
+    "第二批靶机/images/Pasted image 20231230163529.png",
+    "Pasted image 20231230163515.png",
+    "第二批靶机/images/Pasted image 20231230163434.png",
+    "第二批靶机/BSides-Vancouver-2018-Workshop.md"
+  ]
+}
