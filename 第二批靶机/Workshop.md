@@ -273,7 +273,3 @@ nc -lvnp 4444
 
 
 
-
-
-
-https://forum.ywhack.com/reverse-shell/
