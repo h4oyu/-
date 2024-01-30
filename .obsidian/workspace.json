@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5ce97ec405d2d609",
+        "id": "8aa4eba96324ffa8",
         "type": "tabs",
         "children": [
           {
-            "id": "7f25449e84b9d054",
+            "id": "a5a58f2489556616",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "第二批靶机/DC416.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "第二批靶机/DC416.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "第二批靶机/DC416.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "第二批靶机/DC416.md"
+              }
             }
           }
         ]
@@ -138,29 +146,40 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7f25449e84b9d054",
+  "active": "a5a58f2489556616",
   "lastOpenFiles": [
+    "第二批靶机/Workshop.md",
+    "第二批靶机/Presidential.md",
+    "Pasted image 20240130170032.png",
     "第二批靶机/Koptrix4i.md",
-    "第二批靶机/images/Pasted image 20240116220204.png",
-    "第二批靶机/images/Pasted image 20240116193837.png",
+    "第二批靶机/Koptrix2014.md",
+    "第二批靶机/DC416.md",
+    "第二批靶机/JOY.md",
+    "第二批靶机/hackmeplase.md",
     "第二批靶机/hackme.md",
-    "第二批靶机/tiki.md",
-    "第二批靶机/pWnOS v2.0.md",
     "第二批靶机/hackkid.md",
-    "第二批靶机/images/Pasted image 20240116125004.png",
-    "第二批靶机/images/Pasted image 20240116124511.png",
-    "第二批靶机/images/Pasted image 20240116124508.png",
-    "第二批靶机/images/Pasted image 20240116121334.png",
-    "第二批靶机/images/Pasted image 20240116121143.png",
-    "第二批靶机/BSides-Vancouver-2018-Workshop.md",
-    "第二批靶机/Election.md",
     "第二批靶机/FALL.md",
-    "第二批靶机/images/Pasted image 20240116110439.png",
+    "第二批靶机/Election.md",
+    "第二批靶机/djinn.md",
+    "第二批靶机/Development.md",
+    "第二批靶机/tiki.md",
+    "第二批靶机/stapler.md",
+    "第二批靶机/images/Pasted image 20240127165652.png",
+    "第二批靶机/images/Pasted image 20240127162032.png",
+    "第二批靶机/images/Pasted image 20240127161844.png",
+    "第二批靶机/pWnOS v2.0.md",
     "第二批靶机/OSCP.md",
-    "未命名",
-    "第二批靶机/images/Pasted image 20240113103343.png",
-    "第二批靶机/images/Pasted image 20240113103329.png",
+    "第二批靶机/marisa.md",
+    "第二批靶机/KVM3.md",
     "第一批靶机/2. dpwwn-02.md",
-    "第一批靶机/1. bulldog.md"
+    "第一批靶机/1. bulldog.md",
+    "第一批靶机/images/Pasted image 20231127181453.png",
+    "第二批靶机/images/Pasted image 20240124150806.png",
+    "第二批靶机/images/Pasted image 20240124150547.png",
+    "第二批靶机/images/Pasted image 20240123202503.png",
+    "第二批靶机/images/Pasted image 20240123202321.png",
+    "第二批靶机/images/Pasted image 20240123202100.png",
+    "第二批靶机/BSides-Vancouver-2018-Workshop.md",
+    "未命名"
   ]
 }

